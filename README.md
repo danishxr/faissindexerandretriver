@@ -13,7 +13,7 @@ This application provides a user-friendly interface for indexing and searching P
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/danishxr/faissindexerandretriver.git
 cd faiss_testing
 ```
 
