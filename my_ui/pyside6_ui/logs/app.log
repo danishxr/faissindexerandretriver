@@ -1,0 +1,491 @@
+2025-04-27 16:27:46,881 - app - INFO - Starting application
+2025-04-27 16:27:46,998 - app - INFO - Initializing SearchApp
+2025-04-27 16:27:46,998 - app - INFO - Setting up UI components
+2025-04-27 16:27:47,101 - app - INFO - UI setup complete
+2025-04-27 16:27:47,161 - app - INFO - Application UI displayed
+2025-04-27 16:28:01,636 - app - INFO - Browse index folder button clicked
+2025-04-27 16:28:06,302 - app - INFO - Selected folder with index files: /Users/dan/Downloads/index_me
+2025-04-27 16:28:06,302 - app - INFO - Valid index folder selected: /Users/dan/Downloads/index_me
+2025-04-27 16:28:08,982 - app - INFO - Search query: Teach me about linked list
+2025-04-27 16:28:08,982 - app - INFO - Using index folder: /Users/dan/Downloads/index_me
+2025-04-27 16:28:08,983 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:28:09,023 - app - INFO - Performing similarity search
+2025-04-27 16:28:10,995 - app - INFO - Found 3 search results
+2025-04-27 16:28:10,995 - app - INFO - Result 1: Linked_list_blog.pdf (distance: 0.1553)
+2025-04-27 16:28:10,995 - app - INFO - Result 2: western_ghats.pdf (distance: 0.2467)
+2025-04-27 16:28:10,995 - app - INFO - Result 3: Atmospheric pressure - Wikipedia.pdf (distance: 0.2492)
+2025-04-27 16:28:10,995 - app - INFO - Generating RAG response
+2025-04-27 16:28:30,648 - app - INFO - Search completed successfully
+2025-04-27 16:35:09,085 - app - INFO - Starting application
+2025-04-27 16:35:09,196 - app - INFO - Initializing SearchApp
+2025-04-27 16:35:09,196 - app - INFO - Setting up UI components
+2025-04-27 16:35:09,294 - app - INFO - UI setup complete
+2025-04-27 16:35:09,342 - app - INFO - Application UI displayed
+2025-04-27 16:35:16,029 - app - INFO - Browse folder button clicked
+2025-04-27 16:35:20,080 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 16:35:20,872 - app - INFO - Valid index folder selected: /Users/dan/Downloads/index_me
+2025-04-27 16:35:23,269 - app - WARNING - Empty search query
+2025-04-27 16:40:34,259 - app - INFO - Starting application
+2025-04-27 16:40:34,372 - app - INFO - Initializing SearchApp
+2025-04-27 16:40:34,372 - app - INFO - Setting up UI components
+2025-04-27 16:40:34,477 - app - INFO - UI setup complete
+2025-04-27 16:40:34,522 - app - INFO - Application UI displayed
+2025-04-27 16:45:17,360 - app - INFO - Starting application
+2025-04-27 16:45:17,474 - app - INFO - Initializing SearchApp
+2025-04-27 16:45:17,474 - app - INFO - Setting up UI components
+2025-04-27 16:45:17,615 - app - INFO - UI setup complete
+2025-04-27 16:45:17,654 - app - INFO - Application UI displayed
+2025-04-27 16:45:32,282 - app - INFO - Browse folder button clicked
+2025-04-27 16:45:36,701 - app - WARNING - Empty search query
+2025-04-27 16:46:04,678 - app - INFO - Browse folder button clicked
+2025-04-27 16:46:08,851 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 16:46:12,587 - app - INFO - Valid index folder selected: /Users/dan/Downloads/index_me
+2025-04-27 16:46:16,115 - app - INFO - Search query: Teach me something about western ghats
+2025-04-27 16:46:16,116 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 16:46:16,116 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:46:16,170 - app - INFO - Performing similarity search
+2025-04-27 16:46:18,184 - app - INFO - Found 1 search results
+2025-04-27 16:46:18,185 - app - ERROR - Error during search: 'SearchApp' object has no attribute '_pixmap_to_base64'
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 356, in search_documents
+    pdf_icon_base64 = self._pixmap_to_base64(pdf_icon)
+                      ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SearchApp' object has no attribute '_pixmap_to_base64'
+2025-04-27 16:46:26,075 - app - INFO - Search query: Teach me something about western ghats
+2025-04-27 16:46:26,075 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 16:46:26,075 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:46:26,095 - app - INFO - Performing similarity search
+2025-04-27 16:46:28,039 - app - INFO - Found 1 search results
+2025-04-27 16:46:28,040 - app - ERROR - Error during search: 'SearchApp' object has no attribute '_pixmap_to_base64'
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 356, in search_documents
+    pdf_icon_base64 = self._pixmap_to_base64(pdf_icon)
+                      ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SearchApp' object has no attribute '_pixmap_to_base64'
+2025-04-27 16:50:01,533 - app - INFO - Starting application
+2025-04-27 16:50:01,631 - app - INFO - Initializing SearchApp
+2025-04-27 16:50:01,632 - app - INFO - Setting up UI components
+2025-04-27 16:50:01,772 - app - INFO - UI setup complete
+2025-04-27 16:50:01,817 - app - INFO - Application UI displayed
+2025-04-27 16:50:05,235 - app - INFO - Browse folder button clicked
+2025-04-27 16:50:09,154 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 16:51:03,742 - app - INFO - Search query: Teach me about western ghats
+2025-04-27 16:51:03,742 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 16:51:03,743 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:51:03,779 - app - INFO - Performing similarity search
+2025-04-27 16:51:05,732 - app - INFO - Found 1 search results
+2025-04-27 16:51:05,733 - app - ERROR - Error during search: 'SearchApp' object has no attribute '_pixmap_to_base64'
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 358, in search_documents
+    pdf_icon_base64 = self._pixmap_to_base64(pdf_icon)
+                      ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SearchApp' object has no attribute '_pixmap_to_base64'
+2025-04-27 16:54:36,462 - app - INFO - Starting application
+2025-04-27 16:54:36,567 - app - INFO - Initializing SearchApp
+2025-04-27 16:54:36,567 - app - INFO - Setting up UI components
+2025-04-27 16:54:36,704 - app - INFO - UI setup complete
+2025-04-27 16:54:36,744 - app - INFO - Application UI displayed
+2025-04-27 16:54:39,886 - app - WARNING - No folder selected
+2025-04-27 16:54:42,072 - app - INFO - Browse folder button clicked
+2025-04-27 16:54:46,002 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 16:55:01,736 - app - INFO - Search query: Where is Western ghats 
+2025-04-27 16:55:01,737 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 16:55:01,737 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:55:01,784 - app - INFO - Performing similarity search
+2025-04-27 16:55:03,811 - app - INFO - Found 1 search results
+2025-04-27 16:55:03,812 - app - ERROR - Error during search: 'SearchApp' object has no attribute '_pixmap_to_base64'
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 358, in search_documents
+    pdf_icon_base64 = self._pixmap_to_base64(pdf_icon)
+                      ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SearchApp' object has no attribute '_pixmap_to_base64'
+2025-04-27 17:01:06,453 - app - INFO - Starting application
+2025-04-27 17:01:06,561 - app - INFO - Initializing SearchApp
+2025-04-27 17:01:06,561 - app - INFO - Setting up UI components
+2025-04-27 17:01:06,705 - app - INFO - UI setup complete
+2025-04-27 17:01:06,750 - app - INFO - Application UI displayed
+2025-04-27 17:01:09,978 - app - WARNING - No folder selected
+2025-04-27 17:01:11,403 - app - INFO - Browse folder button clicked
+2025-04-27 17:01:15,287 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 17:01:33,094 - app - INFO - Search query: Tell me about western ghats
+2025-04-27 17:01:45,936 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 17:02:06,880 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 17:02:28,957 - app - INFO - Performing similarity search
+2025-04-27 17:06:28,003 - app - INFO - Found 1 search results
+2025-04-27 18:06:15,942 - app - INFO - Starting application
+2025-04-27 18:06:16,044 - app - INFO - Initializing SearchApp
+2025-04-27 18:06:16,045 - app - INFO - Setting up UI components
+2025-04-27 18:06:16,193 - app - INFO - UI setup complete
+2025-04-27 18:06:16,240 - app - INFO - Application UI displayed
+2025-04-27 18:06:22,084 - app - WARNING - No folder selected
+2025-04-27 18:06:23,528 - app - INFO - Browse folder button clicked
+2025-04-27 18:06:28,251 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 18:06:41,880 - app - INFO - Search query: Teach me about western ghats
+2025-04-27 18:06:41,880 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:06:41,880 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:06:41,931 - app - INFO - Performing similarity search
+2025-04-27 18:06:43,920 - app - INFO - Found 1 search results
+2025-04-27 18:06:52,425 - app - INFO - Search completed successfully
+2025-04-27 18:10:57,047 - app - INFO - Starting application
+2025-04-27 18:10:57,175 - app - INFO - Initializing SearchApp
+2025-04-27 18:10:57,175 - app - INFO - Setting up UI components
+2025-04-27 18:10:57,332 - app - INFO - UI setup complete
+2025-04-27 18:10:57,385 - app - INFO - Application UI displayed
+2025-04-27 18:11:23,142 - app - WARNING - No folder selected
+2025-04-27 18:11:25,156 - app - INFO - Browse folder button clicked
+2025-04-27 18:11:29,304 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 18:11:30,758 - app - INFO - Valid index folder selected: /Users/dan/Downloads/index_me
+2025-04-27 18:11:31,970 - app - INFO - Search query: Tell me about atmospheric pressure
+2025-04-27 18:11:31,970 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:11:31,971 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:11:32,032 - app - INFO - Performing similarity search
+2025-04-27 18:11:33,983 - app - INFO - Found 1 search results
+2025-04-27 18:11:34,026 - app - INFO - Search completed successfully
+2025-04-27 18:11:45,776 - app - INFO - Search query: Tell me about atmospheric pressure
+2025-04-27 18:11:45,777 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:11:45,778 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:11:45,810 - app - INFO - Performing similarity search
+2025-04-27 18:11:47,802 - app - INFO - Found 1 search results
+2025-04-27 18:11:47,803 - app - INFO - Search completed successfully
+2025-04-27 18:12:09,018 - app - INFO - Search query: Tell me about atmospheric pressure
+2025-04-27 18:12:09,019 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:12:09,019 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:09,041 - app - INFO - Performing similarity search
+2025-04-27 18:12:10,989 - app - INFO - Found 1 search results
+2025-04-27 18:12:10,990 - app - INFO - Search completed successfully
+2025-04-27 18:12:24,395 - app - INFO - Search query: chicken recepie
+2025-04-27 18:12:24,396 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:12:24,396 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:24,416 - app - INFO - Performing similarity search
+2025-04-27 18:12:26,362 - app - INFO - Found 1 search results
+2025-04-27 18:12:26,364 - app - INFO - Search completed successfully
+2025-04-27 18:12:42,256 - app - INFO - Search query: Mountains
+2025-04-27 18:12:42,257 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:12:42,257 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:42,287 - app - INFO - Performing similarity search
+2025-04-27 18:12:44,643 - app - INFO - Found 1 search results
+2025-04-27 18:12:44,645 - app - INFO - Search completed successfully
+2025-04-27 18:13:00,043 - app - INFO - Search query: Mountains
+2025-04-27 18:13:00,044 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:13:00,044 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:13:00,070 - app - INFO - Performing similarity search
+2025-04-27 18:13:00,886 - app - INFO - Found 1 search results
+2025-04-27 18:13:00,887 - app - INFO - Search completed successfully
+2025-04-27 18:18:08,725 - app - INFO - Starting application
+2025-04-27 18:18:08,836 - app - INFO - Initializing SearchApp
+2025-04-27 18:18:08,836 - app - INFO - Setting up UI components
+2025-04-27 18:18:08,984 - app - INFO - UI setup complete
+2025-04-27 18:18:09,029 - app - INFO - Application UI displayed
+2025-04-27 18:18:11,406 - app - INFO - Browse folder button clicked
+2025-04-27 18:18:16,520 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 18:18:27,269 - app - INFO - Search query: What is Linked List
+2025-04-27 18:18:27,270 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:18:27,270 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:18:27,334 - app - INFO - Performing similarity search
+2025-04-27 18:18:29,296 - app - INFO - Found 1 search results
+2025-04-27 18:18:29,314 - app - ERROR - Error during search: 'PySide6.QtWidgets.QTextEdit' object has no attribute 'setOpenLinks'
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 375, in search_documents
+    self.results_area.setOpenLinks(False)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PySide6.QtWidgets.QTextEdit' object has no attribute 'setOpenLinks'
+2025-04-27 18:21:20,078 - app - INFO - Starting application
+2025-04-27 18:21:20,203 - app - INFO - Initializing SearchApp
+2025-04-27 18:21:20,203 - app - INFO - Setting up UI components
+2025-04-27 18:21:20,342 - app - INFO - UI setup complete
+2025-04-27 18:21:20,375 - app - INFO - Application UI displayed
+2025-04-27 18:21:30,043 - app - INFO - Browse folder button clicked
+2025-04-27 18:21:33,553 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 18:21:35,407 - app - INFO - Valid index folder selected: /Users/dan/Downloads/index_me
+2025-04-27 18:21:37,182 - app - INFO - Search query: western ghats
+2025-04-27 18:21:37,182 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:21:37,182 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:21:37,230 - app - INFO - Performing similarity search
+2025-04-27 18:21:39,188 - app - INFO - Found 1 search results
+2025-04-27 18:21:39,212 - app - INFO - Search completed successfully
+2025-04-27 18:23:11,694 - app - INFO - Starting application
+2025-04-27 18:23:11,801 - app - INFO - Initializing SearchApp
+2025-04-27 18:23:11,802 - app - INFO - Setting up UI components
+2025-04-27 18:23:11,945 - app - INFO - UI setup complete
+2025-04-27 18:23:11,991 - app - INFO - Application UI displayed
+2025-04-27 18:23:19,843 - app - INFO - Browse folder button clicked
+2025-04-27 18:23:25,054 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 18:23:27,675 - app - INFO - Valid index folder selected: /Users/dan/Downloads/index_me
+2025-04-27 18:23:29,204 - app - INFO - Search query: linked list
+2025-04-27 18:23:29,204 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 18:23:29,205 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:23:29,263 - app - INFO - Performing similarity search
+2025-04-27 18:23:31,242 - app - INFO - Found 1 search results
+2025-04-27 18:23:31,285 - app - INFO - Search completed successfully
+2025-04-27 18:23:33,460 - app - INFO - Opening PDF file: /Users/dan/Downloads/index_me/Linked_list_blog.pdf
+2025-04-27 23:16:17,167 - app - INFO - Starting application
+2025-04-27 23:16:17,295 - app - INFO - Initializing SearchApp
+2025-04-27 23:16:17,296 - app - INFO - Setting up UI components
+2025-04-27 23:16:17,449 - app - INFO - UI setup complete
+2025-04-27 23:16:17,505 - app - INFO - Application UI displayed
+2025-04-27 23:19:27,190 - app - INFO - Starting application
+2025-04-27 23:19:27,296 - app - INFO - Initializing SearchApp
+2025-04-27 23:19:27,296 - app - INFO - Setting up UI components
+2025-04-27 23:19:27,433 - app - INFO - UI setup complete
+2025-04-27 23:19:27,475 - app - INFO - Application UI displayed
+2025-04-27 23:19:34,057 - app - WARNING - No folder selected
+2025-04-27 23:21:38,698 - app - INFO - Browse folder button clicked
+2025-04-27 23:21:44,053 - app - INFO - Selected folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:21:46,783 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:21:46,785 - app - INFO - Initializing IndexingWorker with folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:21:46,785 - app - INFO - Setting up vector store with index file: /Users/dan/Downloads/unindexed/faiss_index.idx and metadata file: /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:46,842 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:21:46,843 - app - INFO - Found 7 PDF files in folder
+2025-04-27 23:21:46,843 - app - INFO - Processing PDF 1/7: /Users/dan/Downloads/unindexed/prison_break.pdf
+2025-04-27 23:21:46,894 - app - INFO - Adding document to RAG system: prison_break.pdf
+2025-04-27 23:21:48,960 - app - INFO - Processing PDF 2/7: /Users/dan/Downloads/unindexed/black_holes.pdf
+2025-04-27 23:21:49,034 - app - INFO - Adding document to RAG system: black_holes.pdf
+2025-04-27 23:21:51,119 - app - INFO - Processing PDF 3/7: /Users/dan/Downloads/unindexed/Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:21:51,160 - app - INFO - Adding document to RAG system: Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:21:53,131 - app - INFO - Processing PDF 4/7: /Users/dan/Downloads/unindexed/What is string theory_ _ Space.pdf
+2025-04-27 23:21:53,217 - app - INFO - Adding document to RAG system: What is string theory_ _ Space.pdf
+2025-04-27 23:21:55,316 - app - INFO - Processing PDF 5/7: /Users/dan/Downloads/unindexed/George Soros - Open Society Foundations.pdf
+2025-04-27 23:21:55,338 - app - INFO - Adding document to RAG system: George Soros - Open Society Foundations.pdf
+2025-04-27 23:21:57,339 - app - INFO - Processing PDF 6/7: /Users/dan/Downloads/unindexed/Poseidon.pdf
+2025-04-27 23:21:57,412 - app - INFO - Adding document to RAG system: Poseidon.pdf
+2025-04-27 23:21:59,482 - app - INFO - Processing PDF 7/7: /Users/dan/Downloads/unindexed/El Nino.pdf
+2025-04-27 23:21:59,505 - app - INFO - Adding document to RAG system: El Nino.pdf
+2025-04-27 23:22:00,981 - app - ERROR - Error processing PDF /Users/dan/Downloads/unindexed/El Nino.pdf: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 78, in run
+    self.rag_system.add_documents([document_text], [metadata])
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/main.py", line 239, in add_documents
+    return self.vector_store.add_texts(documents, metadatas)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/main.py", line 63, in add_texts
+    embeddings = client.get_batch_embeddings(texts)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 182, in get_batch_embeddings
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:22:00,984 - app - INFO - Indexing finished: Error processing El Nino.pdf: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:22:48,393 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:22:48,393 - app - INFO - Initializing IndexingWorker with folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:22:48,394 - app - INFO - Setting up vector store with index file: /Users/dan/Downloads/unindexed/faiss_index.idx and metadata file: /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:48,416 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:22:48,416 - app - INFO - Found 7 PDF files in folder
+2025-04-27 23:22:48,416 - app - INFO - Processing PDF 1/7: /Users/dan/Downloads/unindexed/prison_break.pdf
+2025-04-27 23:22:48,436 - app - INFO - Adding document to RAG system: prison_break.pdf
+2025-04-27 23:22:49,542 - app - INFO - Processing PDF 2/7: /Users/dan/Downloads/unindexed/black_holes.pdf
+2025-04-27 23:22:49,625 - app - INFO - Adding document to RAG system: black_holes.pdf
+2025-04-27 23:22:51,690 - app - INFO - Processing PDF 3/7: /Users/dan/Downloads/unindexed/Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:22:51,729 - app - INFO - Adding document to RAG system: Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:22:53,729 - app - INFO - Processing PDF 4/7: /Users/dan/Downloads/unindexed/What is string theory_ _ Space.pdf
+2025-04-27 23:22:53,826 - app - INFO - Adding document to RAG system: What is string theory_ _ Space.pdf
+2025-04-27 23:22:54,990 - app - INFO - Processing PDF 5/7: /Users/dan/Downloads/unindexed/George Soros - Open Society Foundations.pdf
+2025-04-27 23:22:55,025 - app - INFO - Adding document to RAG system: George Soros - Open Society Foundations.pdf
+2025-04-27 23:22:56,975 - app - INFO - Processing PDF 6/7: /Users/dan/Downloads/unindexed/Poseidon.pdf
+2025-04-27 23:22:57,033 - app - INFO - Adding document to RAG system: Poseidon.pdf
+2025-04-27 23:22:59,082 - app - INFO - Processing PDF 7/7: /Users/dan/Downloads/unindexed/El Nino.pdf
+2025-04-27 23:22:59,112 - app - INFO - Adding document to RAG system: El Nino.pdf
+2025-04-27 23:23:01,133 - app - INFO - Successfully indexed 7 PDF documents
+2025-04-27 23:23:01,136 - app - INFO - Indexing finished: Successfully indexed 7 PDF documents.
+2025-04-27 23:23:28,607 - app - INFO - Search query: string theory vs atom theory
+2025-04-27 23:23:28,608 - app - INFO - Using folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:23:28,609 - app - INFO - Loading vector store from /Users/dan/Downloads/unindexed/faiss_index.idx and /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:23:28,644 - app - INFO - Performing similarity search
+2025-04-27 23:23:30,092 - app - ERROR - Error during search: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 338, in search_documents
+    results = rag_system.vector_store.similarity_search(query, k=1)  # Only get 1 result
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/main.py", line 116, in similarity_search
+    query_embedding = client.get_embedding(query)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 54, in get_embedding
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:25:17,618 - app - INFO - Search query: string theory vs atom theory
+2025-04-27 23:25:17,619 - app - INFO - Using folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:25:17,619 - app - INFO - Loading vector store from /Users/dan/Downloads/unindexed/faiss_index.idx and /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:25:17,653 - app - INFO - Performing similarity search
+2025-04-27 23:25:19,610 - app - INFO - Found 1 search results
+2025-04-27 23:25:19,738 - app - INFO - Search completed successfully
+2025-04-27 23:25:22,306 - app - INFO - Opening PDF file: /Users/dan/Downloads/unindexed/What is string theory_ _ Space.pdf
+2025-04-27 23:26:23,568 - app - INFO - Search query: string theory vs atom theory
+2025-04-27 23:26:23,569 - app - INFO - Using folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:26:23,570 - app - ERROR - Missing index files in folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:29:14,002 - app - INFO - Starting application
+2025-04-27 23:29:14,109 - app - INFO - Initializing SearchApp
+2025-04-27 23:29:14,110 - app - INFO - Setting up UI components
+2025-04-27 23:29:14,266 - app - INFO - UI setup complete
+2025-04-27 23:29:14,328 - app - INFO - Application UI displayed
+2025-04-27 23:32:40,908 - app - INFO - Browse folder button clicked
+2025-04-27 23:32:45,446 - app - INFO - Selected folder: /Users/dan/Downloads/index_me
+2025-04-27 23:32:58,190 - app - INFO - Search query: Memory Management
+2025-04-27 23:32:58,191 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 23:32:58,191 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:32:58,261 - app - INFO - Performing similarity search
+2025-04-27 23:32:59,408 - app - INFO - Found 1 search results
+2025-04-27 23:32:59,459 - app - INFO - Search completed successfully
+2025-04-27 23:33:19,580 - app - INFO - Opening PDF file: /Users/dan/Downloads/index_me/Linked_list_blog.pdf
+2025-04-27 23:34:45,100 - app - INFO - Search query: Gods and theology
+2025-04-27 23:34:45,100 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 23:34:45,100 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:34:45,123 - app - INFO - Performing similarity search
+2025-04-27 23:34:47,062 - app - INFO - Found 1 search results
+2025-04-27 23:34:47,066 - app - INFO - Search completed successfully
+2025-04-27 23:34:49,671 - app - INFO - Valid index folder selected: /Users/dan/Downloads/index_me
+2025-04-27 23:34:54,996 - app - INFO - Search query: Gods and theology
+2025-04-27 23:34:54,996 - app - INFO - Using folder: /Users/dan/Downloads/index_me
+2025-04-27 23:34:54,997 - app - INFO - Loading vector store from /Users/dan/Downloads/index_me/faiss_index.idx and /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:34:55,029 - app - INFO - Performing similarity search
+2025-04-27 23:34:57,021 - app - INFO - Found 1 search results
+2025-04-27 23:34:57,024 - app - INFO - Search completed successfully
+2025-04-27 23:34:58,821 - app - INFO - Browse folder button clicked
+2025-04-27 23:35:03,248 - app - INFO - Selected folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:03,249 - app - WARNING - Missing index files in folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:31,225 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:31,228 - app - INFO - Initializing IndexingWorker with folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:31,229 - app - INFO - Setting up vector store with index file: /Users/dan/Downloads/unindexed/faiss_index.idx and metadata file: /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:31,263 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:31,263 - app - INFO - Found 7 PDF files in folder
+2025-04-27 23:35:31,264 - app - INFO - Processing PDF 1/7: /Users/dan/Downloads/unindexed/prison_break.pdf
+2025-04-27 23:35:31,341 - app - INFO - Adding document to RAG system: prison_break.pdf
+2025-04-27 23:35:33,353 - app - INFO - Processing PDF 2/7: /Users/dan/Downloads/unindexed/black_holes.pdf
+2025-04-27 23:35:33,421 - app - INFO - Adding document to RAG system: black_holes.pdf
+2025-04-27 23:35:35,489 - app - INFO - Processing PDF 3/7: /Users/dan/Downloads/unindexed/Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:35:35,529 - app - INFO - Adding document to RAG system: Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:35:37,511 - app - INFO - Processing PDF 4/7: /Users/dan/Downloads/unindexed/What is string theory_ _ Space.pdf
+2025-04-27 23:35:37,611 - app - INFO - Adding document to RAG system: What is string theory_ _ Space.pdf
+2025-04-27 23:35:39,693 - app - INFO - Processing PDF 5/7: /Users/dan/Downloads/unindexed/George Soros - Open Society Foundations.pdf
+2025-04-27 23:35:39,716 - app - INFO - Adding document to RAG system: George Soros - Open Society Foundations.pdf
+2025-04-27 23:35:40,569 - app - INFO - Processing PDF 6/7: /Users/dan/Downloads/unindexed/Poseidon.pdf
+2025-04-27 23:35:40,645 - app - INFO - Adding document to RAG system: Poseidon.pdf
+2025-04-27 23:35:42,790 - app - INFO - Processing PDF 7/7: /Users/dan/Downloads/unindexed/El Nino.pdf
+2025-04-27 23:35:42,820 - app - INFO - Adding document to RAG system: El Nino.pdf
+2025-04-27 23:35:44,332 - app - ERROR - Error processing PDF /Users/dan/Downloads/unindexed/El Nino.pdf: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 78, in run
+    self.rag_system.add_documents([document_text], [metadata])
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/main.py", line 239, in add_documents
+    return self.vector_store.add_texts(documents, metadatas)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/main.py", line 63, in add_texts
+    embeddings = client.get_batch_embeddings(texts)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 182, in get_batch_embeddings
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:35:44,334 - app - INFO - Indexing finished: Error processing El Nino.pdf: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:35:55,321 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:55,322 - app - INFO - Initializing IndexingWorker with folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:55,322 - app - INFO - Setting up vector store with index file: /Users/dan/Downloads/unindexed/faiss_index.idx and metadata file: /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:55,347 - app - INFO - Starting indexing process for folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:35:55,348 - app - INFO - Found 7 PDF files in folder
+2025-04-27 23:35:55,348 - app - INFO - Processing PDF 1/7: /Users/dan/Downloads/unindexed/prison_break.pdf
+2025-04-27 23:35:55,368 - app - INFO - Adding document to RAG system: prison_break.pdf
+2025-04-27 23:35:57,383 - app - INFO - Processing PDF 2/7: /Users/dan/Downloads/unindexed/black_holes.pdf
+2025-04-27 23:35:57,448 - app - INFO - Adding document to RAG system: black_holes.pdf
+2025-04-27 23:35:59,522 - app - INFO - Processing PDF 3/7: /Users/dan/Downloads/unindexed/Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:35:59,609 - app - INFO - Adding document to RAG system: Japanese Maglev Train_ World's Fastest Bullet Train _ JRailPass.pdf
+2025-04-27 23:36:01,596 - app - INFO - Processing PDF 4/7: /Users/dan/Downloads/unindexed/What is string theory_ _ Space.pdf
+2025-04-27 23:36:01,680 - app - INFO - Adding document to RAG system: What is string theory_ _ Space.pdf
+2025-04-27 23:36:02,860 - app - INFO - Processing PDF 5/7: /Users/dan/Downloads/unindexed/George Soros - Open Society Foundations.pdf
+2025-04-27 23:36:02,881 - app - INFO - Adding document to RAG system: George Soros - Open Society Foundations.pdf
+2025-04-27 23:36:04,911 - app - INFO - Processing PDF 6/7: /Users/dan/Downloads/unindexed/Poseidon.pdf
+2025-04-27 23:36:04,983 - app - INFO - Adding document to RAG system: Poseidon.pdf
+2025-04-27 23:36:07,062 - app - INFO - Processing PDF 7/7: /Users/dan/Downloads/unindexed/El Nino.pdf
+2025-04-27 23:36:07,088 - app - INFO - Adding document to RAG system: El Nino.pdf
+2025-04-27 23:36:09,035 - app - INFO - Successfully indexed 7 PDF documents
+2025-04-27 23:36:09,037 - app - INFO - Indexing finished: Successfully indexed 7 PDF documents.
+2025-04-27 23:36:27,674 - app - INFO - Search query: Gods and theology
+2025-04-27 23:36:27,675 - app - INFO - Using folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:36:27,676 - app - INFO - Loading vector store from /Users/dan/Downloads/unindexed/faiss_index.idx and /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:27,707 - app - INFO - Performing similarity search
+2025-04-27 23:36:29,181 - app - ERROR - Error during search: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 338, in search_documents
+    results = rag_system.vector_store.similarity_search(query, k=1)  # Only get 1 result
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/main.py", line 116, in similarity_search
+    query_embedding = client.get_embedding(query)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 54, in get_embedding
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:36:35,557 - app - INFO - Search query: Gods and theology
+2025-04-27 23:36:35,557 - app - INFO - Using folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:36:35,557 - app - INFO - Loading vector store from /Users/dan/Downloads/unindexed/faiss_index.idx and /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:35,578 - app - INFO - Performing similarity search
+2025-04-27 23:36:37,022 - app - ERROR - Error during search: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/app.py", line 338, in search_documents
+    results = rag_system.vector_store.similarity_search(query, k=1)  # Only get 1 result
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/main.py", line 116, in similarity_search
+    query_embedding = client.get_embedding(query)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 54, in get_embedding
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:36:53,042 - app - INFO - Search query: Gods and theology
+2025-04-27 23:36:53,044 - app - INFO - Using folder: /Users/dan/Downloads/unindexed
+2025-04-27 23:36:53,045 - app - INFO - Loading vector store from /Users/dan/Downloads/unindexed/faiss_index.idx and /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:53,078 - app - INFO - Performing similarity search
+2025-04-27 23:36:53,963 - app - INFO - Found 1 search results
+2025-04-27 23:36:53,965 - app - INFO - Search completed successfully
+2025-04-27 23:36:59,551 - app - INFO - Opening PDF file: /Users/dan/Downloads/unindexed/Poseidon.pdf
+2025-04-27 23:36:59,830 - app - INFO - Opening PDF file: /Users/dan/Downloads/unindexed/Poseidon.pdf
+2025-04-27 23:36:59,910 - app - INFO - Opening PDF file: /Users/dan/Downloads/unindexed/Poseidon.pdf
+2025-04-27 23:36:59,988 - app - INFO - Opening PDF file: /Users/dan/Downloads/unindexed/Poseidon.pdf

@@ -1,0 +1,283 @@
+2025-04-27 16:27:46,880 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 16:28:09,023 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:28:09,041 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:28:09,041 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 16:28:10,985 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 16:28:11,022 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:28:11,022 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 16:28:12,922 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 16:28:12,923 - backend.gemini_client - INFO - Generating RAG response for query with 3 context passages
+2025-04-27 16:28:12,923 - backend.gemini_client - INFO - Generating text with temperature: 0.7
+2025-04-27 16:28:30,643 - backend.gemini_client - INFO - Successfully generated text response
+2025-04-27 16:28:30,643 - backend.gemini_client - INFO - Successfully generated RAG response
+2025-04-27 16:35:09,083 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 16:40:34,257 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 16:45:17,359 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 16:46:16,170 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:46:16,188 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:46:16,189 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 16:46:18,180 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 16:46:26,095 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:46:26,113 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:46:26,113 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 16:46:28,038 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 16:50:01,533 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 16:51:03,779 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:51:03,797 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:51:03,798 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 16:51:05,726 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 16:54:36,461 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 16:55:01,783 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:55:01,802 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 16:55:01,802 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 16:55:03,809 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 16:58:28,556 - backend.gemini_client - ERROR - GOOGLE_API_KEY not found in .env file
+2025-04-27 16:59:54,086 - backend.gemini_client - ERROR - GOOGLE_API_KEY not found in .env file
+2025-04-27 17:01:06,451 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 17:02:22,780 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 17:02:29,840 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 17:02:29,840 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 17:02:31,783 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:06:15,940 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 18:06:41,930 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:06:41,949 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:06:41,950 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:06:43,912 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:10:57,045 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 18:11:32,032 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:11:32,051 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:11:32,051 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:11:33,973 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:11:45,810 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:11:45,829 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:11:45,830 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:11:47,801 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:12:09,040 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:12:09,059 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:12:09,059 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:12:10,987 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:12:24,416 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:12:24,435 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:12:24,436 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:12:26,360 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:12:42,287 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:12:42,306 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:12:42,306 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:12:44,642 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:13:00,070 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:13:00,089 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:13:00,089 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:13:00,885 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:18:08,723 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 18:18:27,334 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:18:27,353 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:18:27,353 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:18:29,294 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:21:20,076 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 18:21:37,230 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:21:37,249 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:21:37,249 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:21:39,182 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 18:23:11,692 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 18:23:29,263 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:23:29,282 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 18:23:29,282 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 18:23:31,237 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 23:16:17,164 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 23:19:27,188 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 23:21:46,842 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:46,913 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:46,913 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:21:48,957 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:21:49,054 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:49,054 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:21:51,115 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:21:51,179 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:51,179 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:21:53,130 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:21:53,236 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:53,236 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:21:55,313 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:21:55,358 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:55,359 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:21:57,334 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:21:57,431 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:57,431 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:21:59,478 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:21:59,524 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:21:59,524 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:22:00,971 - backend.gemini_client - ERROR - Error generating batch embeddings: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 182, in get_batch_embeddings
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:22:48,415 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:48,454 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:48,455 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:22:49,541 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:22:49,645 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:49,645 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:22:51,685 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:22:51,747 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:51,747 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:22:53,723 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:22:53,845 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:53,845 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:22:54,987 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:22:55,044 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:55,044 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:22:56,974 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:22:57,051 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:57,051 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:22:59,079 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:22:59,131 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:22:59,131 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:23:01,129 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:23:28,644 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:23:28,663 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:23:28,663 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:23:30,088 - backend.gemini_client - ERROR - Error generating embedding: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 54, in get_embedding
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:25:17,652 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:25:17,672 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:25:17,672 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:25:19,596 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 23:29:14,000 - backend.gemini_client - INFO - Successfully loaded GOOGLE_API_KEY from environment
+2025-04-27 23:32:58,261 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:32:58,280 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:32:58,281 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:32:59,401 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 23:34:45,122 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:34:45,142 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:34:45,143 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:34:47,061 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 23:34:55,029 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:34:55,049 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:34:55,050 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:34:57,019 - backend.gemini_client - INFO - Successfully generated embedding
+2025-04-27 23:35:31,262 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:31,361 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:31,361 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:33,348 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:33,440 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:33,440 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:35,486 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:35,549 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:35,549 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:37,508 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:37,630 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:37,630 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:39,692 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:39,735 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:39,735 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:40,567 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:40,675 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:40,676 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:42,788 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:42,841 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:42,841 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:44,324 - backend.gemini_client - ERROR - Error generating batch embeddings: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 182, in get_batch_embeddings
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:35:55,346 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:55,387 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:55,388 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:57,381 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:57,468 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:57,468 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:35:59,518 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:35:59,628 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:35:59,628 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:36:01,595 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:36:01,699 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:01,699 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:36:02,858 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:36:02,901 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:02,901 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:36:04,908 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:36:05,002 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:05,003 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:36:07,059 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:36:07,108 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:07,109 - backend.gemini_client - INFO - Generating batch embeddings for 1 texts
+2025-04-27 23:36:09,033 - backend.gemini_client - INFO - Successfully generated 1 embeddings
+2025-04-27 23:36:27,706 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:27,727 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:27,727 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:36:29,179 - backend.gemini_client - ERROR - Error generating embedding: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 54, in get_embedding
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:36:35,578 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:35,598 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:35,598 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:36:37,021 - backend.gemini_client - ERROR - Error generating embedding: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "/Users/dan/playground/eva_3/faiss_testing/my_ui/pyside6_ui/backend/gemini_client.py", line 54, in get_embedding
+    response = self.generation_model.models.embed_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/models.py", line 4160, in embed_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/envs/eva/lib/python3.11/site-packages/google/genai/errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-04-27 23:36:53,077 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:53,098 - backend.gemini_client - INFO - Initialized GeminiClient with model: gemini-1.5-pro, embedding model: gemini-embedding-exp-03-07
+2025-04-27 23:36:53,099 - backend.gemini_client - INFO - Generating embedding for text
+2025-04-27 23:36:53,962 - backend.gemini_client - INFO - Successfully generated embedding

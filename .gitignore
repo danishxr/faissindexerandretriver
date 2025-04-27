@@ -1,0 +1,33 @@
+# Environment variables
+.env
+.env.*
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS specific
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# FAISS index files (optional, uncomment if you want to ignore these)
+# *.idx

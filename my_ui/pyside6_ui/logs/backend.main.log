@@ -1,0 +1,475 @@
+2025-04-27 16:28:08,983 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:28:08,983 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 16:28:08,985 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:28:08,986 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 16:28:08,986 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 16:28:08,986 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 16:28:09,023 - backend.main - INFO - Performing similarity search for query: 'Teach me about linked list' with k=5
+2025-04-27 16:28:09,041 - backend.main - INFO - Generating embedding for query
+2025-04-27 16:28:10,986 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 16:28:10,995 - backend.main - INFO - Found 3 results
+2025-04-27 16:28:10,995 - backend.main - INFO - Querying RAG system with: 'Teach me about linked list', k=5
+2025-04-27 16:28:10,995 - backend.main - INFO - Performing similarity search for query: 'Teach me about linked list' with k=5
+2025-04-27 16:28:11,022 - backend.main - INFO - Generating embedding for query
+2025-04-27 16:28:12,922 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 16:28:12,923 - backend.main - INFO - Found 3 results
+2025-04-27 16:28:12,923 - backend.main - INFO - Retrieved 3 contexts for RAG
+2025-04-27 16:28:12,923 - backend.main - INFO - Generating response with Gemini
+2025-04-27 16:46:16,116 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:46:16,117 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 16:46:16,120 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:46:16,122 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 16:46:16,122 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 16:46:16,122 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 16:46:16,170 - backend.main - INFO - Performing similarity search for query: 'Teach me something about western ghats' with k=1
+2025-04-27 16:46:16,189 - backend.main - INFO - Generating embedding for query
+2025-04-27 16:46:18,180 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 16:46:18,184 - backend.main - INFO - Found 1 results
+2025-04-27 16:46:26,075 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:46:26,075 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 16:46:26,075 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:46:26,075 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 16:46:26,075 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 16:46:26,075 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 16:46:26,095 - backend.main - INFO - Performing similarity search for query: 'Teach me something about western ghats' with k=1
+2025-04-27 16:46:26,113 - backend.main - INFO - Generating embedding for query
+2025-04-27 16:46:28,039 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 16:46:28,039 - backend.main - INFO - Found 1 results
+2025-04-27 16:51:03,743 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:51:03,744 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 16:51:03,744 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:51:03,744 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 16:51:03,744 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 16:51:03,744 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 16:51:03,779 - backend.main - INFO - Performing similarity search for query: 'Teach me about western ghats' with k=1
+2025-04-27 16:51:03,798 - backend.main - INFO - Generating embedding for query
+2025-04-27 16:51:05,727 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 16:51:05,731 - backend.main - INFO - Found 1 results
+2025-04-27 16:55:01,738 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:55:01,738 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 16:55:01,739 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 16:55:01,739 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 16:55:01,739 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 16:55:01,739 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 16:55:01,784 - backend.main - INFO - Performing similarity search for query: 'Where is Western ghats ' with k=1
+2025-04-27 16:55:01,802 - backend.main - INFO - Generating embedding for query
+2025-04-27 16:55:03,809 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 16:55:03,811 - backend.main - INFO - Found 1 results
+2025-04-27 17:02:15,563 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 17:02:15,564 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 17:02:15,565 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 17:02:15,566 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 17:02:22,723 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 17:02:22,723 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 17:02:29,820 - backend.main - INFO - Performing similarity search for query: 'Tell me about western ghats' with k=1
+2025-04-27 17:02:29,840 - backend.main - INFO - Generating embedding for query
+2025-04-27 17:02:31,783 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 17:02:31,787 - backend.main - INFO - Found 1 results
+2025-04-27 18:06:41,880 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:06:41,881 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:06:41,882 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:06:41,882 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:06:41,882 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:06:41,882 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:06:41,931 - backend.main - INFO - Performing similarity search for query: 'Teach me about western ghats' with k=1
+2025-04-27 18:06:41,950 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:06:43,913 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:06:43,919 - backend.main - INFO - Found 1 results
+2025-04-27 18:11:31,971 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:11:31,972 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:11:31,975 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:11:31,977 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:11:31,977 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:11:31,977 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:11:32,032 - backend.main - INFO - Performing similarity search for query: 'Tell me about atmospheric pressure' with k=1
+2025-04-27 18:11:32,051 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:11:33,974 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:11:33,983 - backend.main - INFO - Found 1 results
+2025-04-27 18:11:45,778 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:11:45,778 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:11:45,779 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:11:45,779 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:11:45,780 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:11:45,780 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:11:45,810 - backend.main - INFO - Performing similarity search for query: 'Tell me about atmospheric pressure' with k=1
+2025-04-27 18:11:45,829 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:11:47,802 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:11:47,802 - backend.main - INFO - Found 1 results
+2025-04-27 18:12:09,019 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:09,019 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:12:09,020 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:09,020 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:12:09,020 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:12:09,020 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:12:09,041 - backend.main - INFO - Performing similarity search for query: 'Tell me about atmospheric pressure' with k=1
+2025-04-27 18:12:09,059 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:12:10,988 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:12:10,988 - backend.main - INFO - Found 1 results
+2025-04-27 18:12:24,396 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:24,396 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:12:24,396 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:24,396 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:12:24,396 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:12:24,396 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:12:24,416 - backend.main - INFO - Performing similarity search for query: 'chicken recepie' with k=1
+2025-04-27 18:12:24,436 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:12:26,361 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:12:26,362 - backend.main - INFO - Found 1 results
+2025-04-27 18:12:42,258 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:42,258 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:12:42,259 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:12:42,259 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:12:42,259 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:12:42,260 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:12:42,288 - backend.main - INFO - Performing similarity search for query: 'Mountains' with k=1
+2025-04-27 18:12:42,306 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:12:44,642 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:12:44,643 - backend.main - INFO - Found 1 results
+2025-04-27 18:13:00,044 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:13:00,044 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:13:00,045 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:13:00,045 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:13:00,045 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:13:00,045 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:13:00,071 - backend.main - INFO - Performing similarity search for query: 'Mountains' with k=1
+2025-04-27 18:13:00,089 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:13:00,886 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:13:00,886 - backend.main - INFO - Found 1 results
+2025-04-27 18:18:27,270 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:18:27,272 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:18:27,274 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:18:27,275 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:18:27,275 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:18:27,275 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:18:27,334 - backend.main - INFO - Performing similarity search for query: 'What is Linked List' with k=1
+2025-04-27 18:18:27,353 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:18:29,294 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:18:29,296 - backend.main - INFO - Found 1 results
+2025-04-27 18:21:37,182 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:21:37,183 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:21:37,184 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:21:37,184 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:21:37,184 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:21:37,184 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:21:37,230 - backend.main - INFO - Performing similarity search for query: 'western ghats' with k=1
+2025-04-27 18:21:37,249 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:21:39,182 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:21:39,187 - backend.main - INFO - Found 1 results
+2025-04-27 18:23:29,205 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:23:29,206 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 18:23:29,208 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 18:23:29,209 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 18:23:29,210 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 18:23:29,210 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 18:23:29,263 - backend.main - INFO - Performing similarity search for query: 'linked list' with k=1
+2025-04-27 18:23:29,282 - backend.main - INFO - Generating embedding for query
+2025-04-27 18:23:31,237 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 18:23:31,242 - backend.main - INFO - Found 1 results
+2025-04-27 23:21:46,785 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:46,786 - backend.main - INFO - Creating new FAISS index with dimension 768
+2025-04-27 23:21:46,787 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:21:46,787 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:21:46,895 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:21:46,895 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:21:46,913 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:21:48,958 - backend.main - INFO - Current index size: 0, adding 1 new vectors
+2025-04-27 23:21:48,958 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:21:48,958 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:21:48,959 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:48,960 - backend.main - INFO - Saved 1 vectors and 1 metadata entries
+2025-04-27 23:21:49,034 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:21:49,034 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:21:49,054 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:21:51,116 - backend.main - INFO - Current index size: 1, adding 1 new vectors
+2025-04-27 23:21:51,116 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:21:51,116 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:21:51,117 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:51,118 - backend.main - INFO - Saved 2 vectors and 2 metadata entries
+2025-04-27 23:21:51,161 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:21:51,161 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:21:51,179 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:21:53,130 - backend.main - INFO - Current index size: 2, adding 1 new vectors
+2025-04-27 23:21:53,131 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:21:53,131 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:21:53,131 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:53,131 - backend.main - INFO - Saved 3 vectors and 3 metadata entries
+2025-04-27 23:21:53,218 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:21:53,218 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:21:53,236 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:21:55,313 - backend.main - INFO - Current index size: 3, adding 1 new vectors
+2025-04-27 23:21:55,314 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:21:55,315 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:21:55,315 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:55,316 - backend.main - INFO - Saved 4 vectors and 4 metadata entries
+2025-04-27 23:21:55,338 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:21:55,339 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:21:55,359 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:21:57,335 - backend.main - INFO - Current index size: 4, adding 1 new vectors
+2025-04-27 23:21:57,336 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:21:57,336 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:21:57,338 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:57,339 - backend.main - INFO - Saved 5 vectors and 5 metadata entries
+2025-04-27 23:21:57,413 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:21:57,413 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:21:57,431 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:21:59,479 - backend.main - INFO - Current index size: 5, adding 1 new vectors
+2025-04-27 23:21:59,479 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:21:59,479 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:21:59,481 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:21:59,482 - backend.main - INFO - Saved 6 vectors and 6 metadata entries
+2025-04-27 23:21:59,506 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:21:59,506 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:21:59,524 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:22:48,394 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:48,394 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:22:48,395 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:48,396 - backend.main - INFO - Loaded 6 metadata entries
+2025-04-27 23:22:48,396 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:22:48,396 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:22:48,436 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:22:48,436 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:22:48,455 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:22:49,541 - backend.main - INFO - Current index size: 6, adding 1 new vectors
+2025-04-27 23:22:49,541 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:22:49,541 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:22:49,542 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:49,542 - backend.main - INFO - Saved 7 vectors and 7 metadata entries
+2025-04-27 23:22:49,626 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:22:49,626 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:22:49,645 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:22:51,686 - backend.main - INFO - Current index size: 7, adding 1 new vectors
+2025-04-27 23:22:51,686 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:22:51,686 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:22:51,688 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:51,689 - backend.main - INFO - Saved 8 vectors and 8 metadata entries
+2025-04-27 23:22:51,729 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:22:51,729 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:22:51,747 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:22:53,724 - backend.main - INFO - Current index size: 8, adding 1 new vectors
+2025-04-27 23:22:53,724 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:22:53,726 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:22:53,727 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:53,728 - backend.main - INFO - Saved 9 vectors and 9 metadata entries
+2025-04-27 23:22:53,826 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:22:53,826 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:22:53,845 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:22:54,987 - backend.main - INFO - Current index size: 9, adding 1 new vectors
+2025-04-27 23:22:54,988 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:22:54,988 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:22:54,989 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:54,989 - backend.main - INFO - Saved 10 vectors and 10 metadata entries
+2025-04-27 23:22:55,025 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:22:55,025 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:22:55,044 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:22:56,974 - backend.main - INFO - Current index size: 10, adding 1 new vectors
+2025-04-27 23:22:56,975 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:22:56,975 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:22:56,975 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:56,975 - backend.main - INFO - Saved 11 vectors and 11 metadata entries
+2025-04-27 23:22:57,033 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:22:57,033 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:22:57,051 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:22:59,080 - backend.main - INFO - Current index size: 11, adding 1 new vectors
+2025-04-27 23:22:59,080 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:22:59,080 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:22:59,081 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:22:59,082 - backend.main - INFO - Saved 12 vectors and 12 metadata entries
+2025-04-27 23:22:59,112 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:22:59,112 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:22:59,131 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:23:01,130 - backend.main - INFO - Current index size: 12, adding 1 new vectors
+2025-04-27 23:23:01,130 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:23:01,130 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:23:01,132 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:23:01,133 - backend.main - INFO - Saved 13 vectors and 13 metadata entries
+2025-04-27 23:23:28,609 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:23:28,610 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:23:28,611 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:23:28,613 - backend.main - INFO - Loaded 13 metadata entries
+2025-04-27 23:23:28,614 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:23:28,614 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:23:28,644 - backend.main - INFO - Performing similarity search for query: 'string theory vs atom theory' with k=1
+2025-04-27 23:23:28,663 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:25:17,620 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:25:17,620 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:25:17,621 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:25:17,624 - backend.main - INFO - Loaded 13 metadata entries
+2025-04-27 23:25:17,624 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:25:17,624 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:25:17,653 - backend.main - INFO - Performing similarity search for query: 'string theory vs atom theory' with k=1
+2025-04-27 23:25:17,672 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:25:19,597 - backend.main - INFO - Searching index with 13 vectors
+2025-04-27 23:25:19,610 - backend.main - INFO - Found 1 results
+2025-04-27 23:32:58,192 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:32:58,192 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 23:32:58,196 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:32:58,197 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 23:32:58,197 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:32:58,198 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:32:58,261 - backend.main - INFO - Performing similarity search for query: 'Memory Management' with k=1
+2025-04-27 23:32:58,281 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:32:59,402 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 23:32:59,408 - backend.main - INFO - Found 1 results
+2025-04-27 23:34:45,100 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:34:45,101 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 23:34:45,102 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:34:45,102 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 23:34:45,102 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:34:45,102 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:34:45,123 - backend.main - INFO - Performing similarity search for query: 'Gods and theology' with k=1
+2025-04-27 23:34:45,143 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:34:47,062 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 23:34:47,062 - backend.main - INFO - Found 1 results
+2025-04-27 23:34:54,997 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/index_me/faiss_index.idx, metadata_file=/Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:34:54,997 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/index_me/faiss_index.idx
+2025-04-27 23:34:54,998 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/index_me/metadata.pkl
+2025-04-27 23:34:54,998 - backend.main - INFO - Loaded 3 metadata entries
+2025-04-27 23:34:54,998 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:34:54,998 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:34:55,029 - backend.main - INFO - Performing similarity search for query: 'Gods and theology' with k=1
+2025-04-27 23:34:55,050 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:34:57,020 - backend.main - INFO - Searching index with 3 vectors
+2025-04-27 23:34:57,020 - backend.main - INFO - Found 1 results
+2025-04-27 23:35:31,229 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:31,230 - backend.main - INFO - Creating new FAISS index with dimension 768
+2025-04-27 23:35:31,230 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:35:31,230 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:35:31,342 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:31,342 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:31,361 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:33,348 - backend.main - INFO - Current index size: 0, adding 1 new vectors
+2025-04-27 23:35:33,350 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:33,350 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:33,351 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:33,352 - backend.main - INFO - Saved 1 vectors and 1 metadata entries
+2025-04-27 23:35:33,421 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:33,421 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:33,440 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:35,487 - backend.main - INFO - Current index size: 1, adding 1 new vectors
+2025-04-27 23:35:35,487 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:35,487 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:35,488 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:35,489 - backend.main - INFO - Saved 2 vectors and 2 metadata entries
+2025-04-27 23:35:35,529 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:35,529 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:35,549 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:37,509 - backend.main - INFO - Current index size: 2, adding 1 new vectors
+2025-04-27 23:35:37,509 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:37,509 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:37,510 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:37,511 - backend.main - INFO - Saved 3 vectors and 3 metadata entries
+2025-04-27 23:35:37,611 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:37,611 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:37,630 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:39,692 - backend.main - INFO - Current index size: 3, adding 1 new vectors
+2025-04-27 23:35:39,692 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:39,692 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:39,692 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:39,693 - backend.main - INFO - Saved 4 vectors and 4 metadata entries
+2025-04-27 23:35:39,716 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:39,716 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:39,735 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:40,567 - backend.main - INFO - Current index size: 4, adding 1 new vectors
+2025-04-27 23:35:40,567 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:40,568 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:40,568 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:40,569 - backend.main - INFO - Saved 5 vectors and 5 metadata entries
+2025-04-27 23:35:40,646 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:40,646 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:40,676 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:42,788 - backend.main - INFO - Current index size: 5, adding 1 new vectors
+2025-04-27 23:35:42,788 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:42,788 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:42,789 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:42,790 - backend.main - INFO - Saved 6 vectors and 6 metadata entries
+2025-04-27 23:35:42,820 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:42,820 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:42,841 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:55,322 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:55,322 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:55,322 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:55,323 - backend.main - INFO - Loaded 6 metadata entries
+2025-04-27 23:35:55,323 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:35:55,323 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:35:55,369 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:55,369 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:55,388 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:57,382 - backend.main - INFO - Current index size: 6, adding 1 new vectors
+2025-04-27 23:35:57,382 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:57,382 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:57,383 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:57,383 - backend.main - INFO - Saved 7 vectors and 7 metadata entries
+2025-04-27 23:35:57,448 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:57,448 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:57,468 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:35:59,519 - backend.main - INFO - Current index size: 7, adding 1 new vectors
+2025-04-27 23:35:59,520 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:35:59,520 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:35:59,521 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:35:59,521 - backend.main - INFO - Saved 8 vectors and 8 metadata entries
+2025-04-27 23:35:59,609 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:35:59,609 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:35:59,628 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:36:01,595 - backend.main - INFO - Current index size: 8, adding 1 new vectors
+2025-04-27 23:36:01,595 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:36:01,595 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:01,596 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:01,596 - backend.main - INFO - Saved 9 vectors and 9 metadata entries
+2025-04-27 23:36:01,680 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:36:01,680 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:36:01,699 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:36:02,859 - backend.main - INFO - Current index size: 9, adding 1 new vectors
+2025-04-27 23:36:02,859 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:36:02,859 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:02,859 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:02,860 - backend.main - INFO - Saved 10 vectors and 10 metadata entries
+2025-04-27 23:36:02,882 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:36:02,882 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:36:02,901 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:36:04,909 - backend.main - INFO - Current index size: 10, adding 1 new vectors
+2025-04-27 23:36:04,909 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:36:04,909 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:04,910 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:04,911 - backend.main - INFO - Saved 11 vectors and 11 metadata entries
+2025-04-27 23:36:04,983 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:36:04,984 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:36:05,003 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:36:07,060 - backend.main - INFO - Current index size: 11, adding 1 new vectors
+2025-04-27 23:36:07,060 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:36:07,060 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:07,061 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:07,062 - backend.main - INFO - Saved 12 vectors and 12 metadata entries
+2025-04-27 23:36:07,088 - backend.main - INFO - Adding 1 documents to RAG system
+2025-04-27 23:36:07,088 - backend.main - INFO - Adding 1 texts to vector store
+2025-04-27 23:36:07,109 - backend.main - INFO - Generating embeddings for texts
+2025-04-27 23:36:09,033 - backend.main - INFO - Current index size: 12, adding 1 new vectors
+2025-04-27 23:36:09,034 - backend.main - INFO - Saving updated index and metadata
+2025-04-27 23:36:09,034 - backend.main - INFO - Saving index to /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:09,035 - backend.main - INFO - Saving metadata to /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:09,035 - backend.main - INFO - Saved 13 vectors and 13 metadata entries
+2025-04-27 23:36:27,676 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:27,676 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:27,677 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:27,677 - backend.main - INFO - Loaded 13 metadata entries
+2025-04-27 23:36:27,678 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:36:27,678 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:36:27,707 - backend.main - INFO - Performing similarity search for query: 'Gods and theology' with k=1
+2025-04-27 23:36:27,727 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:36:35,557 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:35,557 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:35,557 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:35,558 - backend.main - INFO - Loaded 13 metadata entries
+2025-04-27 23:36:35,558 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:36:35,558 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:36:35,578 - backend.main - INFO - Performing similarity search for query: 'Gods and theology' with k=1
+2025-04-27 23:36:35,598 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:36:53,045 - backend.main - INFO - Initializing FAISSVectorStore with dimension=768, index_file=/Users/dan/Downloads/unindexed/faiss_index.idx, metadata_file=/Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:53,046 - backend.main - INFO - Loading existing index from /Users/dan/Downloads/unindexed/faiss_index.idx
+2025-04-27 23:36:53,046 - backend.main - INFO - Loading existing metadata from /Users/dan/Downloads/unindexed/metadata.pkl
+2025-04-27 23:36:53,047 - backend.main - INFO - Loaded 13 metadata entries
+2025-04-27 23:36:53,047 - backend.main - INFO - Initializing RAGSystem
+2025-04-27 23:36:53,047 - backend.main - INFO - Using provided FAISSVectorStore
+2025-04-27 23:36:53,078 - backend.main - INFO - Performing similarity search for query: 'Gods and theology' with k=1
+2025-04-27 23:36:53,099 - backend.main - INFO - Generating embedding for query
+2025-04-27 23:36:53,962 - backend.main - INFO - Searching index with 13 vectors
+2025-04-27 23:36:53,963 - backend.main - INFO - Found 1 results
